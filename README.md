@@ -3,3 +3,6 @@
 
 ## Diario paciente  creado con React js, Taiwild css.
 ### Implementacion de Reacj js, useState, useEffect,  components ,props , localStorage.
+
+
+#https://peppy-vacherin-dec7ca.netlify.app
